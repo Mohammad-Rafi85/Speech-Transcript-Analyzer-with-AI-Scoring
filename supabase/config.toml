@@ -1,0 +1,4 @@
+project_id = "jjzbzdginxcaoxumbyah"
+
+[functions.score-transcript]
+verify_jwt = false
